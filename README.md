@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Téo, I am 20
-
 - 🔭 I’m currently working on a real Estate application in MERN
 - 🌱 I’m currently accepted into the IMT Nord europe engineer cursus
 - 👯 I’m looking to collaborate on everything that can help me improve my skills
