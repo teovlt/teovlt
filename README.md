@@ -6,5 +6,8 @@
 - 🤔 I’m also looking for help with hosting a python game (pygame) on a web server 
 - 📫 How to reach me: teo.villet2@gmail.com | https://www.linkedin.com/in/teo-villet/
 
-
+## Github Streak !
 [![GitHub Streak](https://streak-stats.demolab.com/?user=teovlt)](https://git.io/streak-stats)
+
+## My langages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teovlt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
