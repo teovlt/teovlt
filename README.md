@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github page ! 👋
 
 - 😴 I need to redo my portfolio 
 - 🌱 I’m currently into the IMT Nord Europe engineer cursus
