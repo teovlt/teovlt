@@ -8,6 +8,13 @@
 
 
 ## 🏆 My stats
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teovlt&layout=compact" alt="Top Languages">
+      </a>
+       <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=teovlt" alt="GitHub Streak">
+      </a>
+<!--
 <table>
   <tr>
     <td>
@@ -16,13 +23,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teovlt&layout=compact" alt="Top Languages">
-      </a>
+-->
+     
+<!--
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 <div id="tools">
