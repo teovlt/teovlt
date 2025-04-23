@@ -9,7 +9,7 @@
 
 <p align="center">
  <a href="(https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true)">
-    <img src="https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true" alt="[GitHub Streak](https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true)" />
+    <img src="https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true" alt="Github Streak" />
   </a>
 </p>
 
