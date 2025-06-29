@@ -1,9 +1,10 @@
 ### Welcome to my Github page ! 👋
 
-- 😴 I need to redo my portfolio 
-- 🌱 I’m currently into the IMT Nord Europe engineer cursus
-- 👯 I’m looking to collaborate on everything that can help me improve my skills
-- 🤔 I’m also looking for help with hosting a python game (pygame) on a web server 
+- 🚀 I finally revamped my portfolio — it’s live! Check it out 👉 teovillet.fr
+- 👨‍💻 I’m now freelancing — hit me up, I’m open to any project that helps me level up
+- 📊 Currently building a life stats & habits tracker — sneak peek here 👉 insight-hub
+- 🎓 Still rolling through the IMT Nord Europe engineering cursus
+- 🤝 Always down to collab & learn new tricks — let’s make cool stuff together
 
 ## 🏆 My stats
 
