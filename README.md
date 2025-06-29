@@ -1,17 +1,24 @@
-### Welcome to my Github page ! 👋
+### Welcome to my GitHub page! 👋
 
-- 🚀 I finally revamped my portfolio — it’s live! Check it out 👉 teovillet.fr
-- 👨‍💻 I’m now freelancing — hit me up, I’m open to any project that helps me level up
-- 📊 Currently building a life stats & habits tracker — sneak peek here 👉 insight-hub
-- 🎓 Still rolling through the IMT Nord Europe engineering cursus
-- 🤝 Always down to collab & learn new tricks — let’s make cool stuff together
+- 🚀 I finally revamped my portfolio — it’s live! 👉 [teovillet.fr](https://teovillet.fr)  
+- 👨‍💻 I’m freelancing — got an idea? Let’s make it real.  
+- 📊 Currently building a life stats & habits tracker — sneak peek 👉 [Insight Hub](https://insight-hub-murex.vercel.app)  
+- 🎓 Engineering student @ IMT Nord Europe  
+- 🤝 Always down to collab, learn & ship cool projects together.
 
 ## 🏆 My stats
 
 <p align="center">
- <a href="(https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true)">
-    <img src="https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true" alt="Github Streak" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=teovlt&theme=github-dark-blue&hide_border=true" alt="Github Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teovlt&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 
