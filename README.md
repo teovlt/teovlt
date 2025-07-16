@@ -2,7 +2,7 @@
 
 - 🚀 I finally revamped my portfolio — it’s live! 👉 [teovillet.fr](https://teovillet.fr)  
 - 👨‍💻 I’m freelancing — got an idea? Let’s make it real.  
-- 📊 Currently building a life stats & habits tracker — sneak peek 👉 [Insight Hub](https://insight-hub-murex.vercel.app)  
+- 📊 Currently building a life stats & habits tracker — sneak peek 👉 [Insight Hub](https://insight-hub-prod.vercel.app)  
 - 🎓 Engineering student @ IMT Nord Europe  
 - 🤝 Always down to collab, learn & ship cool projects together.
 
